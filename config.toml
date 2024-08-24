@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://purduesigbots.com"
+baseURL = "https://12944qwerty.github.io/purduesigbots.com"
 title = "Purdue Sigbots"
 # post pagination
 paginate = "6"
